@@ -1,0 +1,108 @@
+body{
+    background-image: url(https://files.tecnoblog.net/wp-content/uploads/2018/12/cartoes-netflix.jpg);
+}
+.table1{
+    width: 100%;
+    padding-right: 50px;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+.logo{
+    width: 175px;
+    height: 47px;
+}
+.entrar{
+    width: 5%;
+    color: white;
+    text-align: center;
+    font-size: 17px;
+    background-color: red;
+    border-radius: 5px;
+    font-family: arial;
+}
+.intro{
+    color: white;
+    text-align: center;
+    font-size: 70px;
+    font-family: arial;
+    text-shadow: 3px 3px black;
+}
+.assista{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    font-family: arial;
+}
+.email{
+    padding: 15px 180px;
+}
+.enviar{
+    padding: 17px 50px;
+    background-color: red;
+    color: white;
+    border: none;
+}
+.table2{
+    width: 100%;
+    background-color: black;
+}
+.aproveite{
+    padding-top: 50px;
+    width: 50%;
+    color: white;
+    text-align: center;
+    font-size: 55px;
+    font-family: arial;
+}
+.tv{
+    padding-top: 50px;
+    width: 330px;
+    height: 185px;
+    padding-bottom: 50px;
+}
+.text_tv{
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    font-family: arial;
+    padding-bottom: 50px;
+}
+.celular{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    width: 135px;
+    height: 225px;
+}
+.baixe{
+    padding-top: 50px;
+    color: white;
+    text-align: center;
+    font-size: 55px;
+    font-family: arial;
+}
+.text_celular{
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    font-family: arial;
+    padding-bottom: 50px;
+}
+.perfil{
+    width: 352px;
+    height: 264px;
+    padding-bottom: 30px;
+}
+.crie_perfil{
+    font-size: 55px;
+    color: white;
+    font-family: arial;
+    text-align: center;
+
+}
+.text_perfil{
+    color: white;
+    font-family: arial;
+    font-size: 20px;
+    text-align: center;
+    padding-bottom: 30px;
+}
